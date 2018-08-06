@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293033701719",
+    "firebase_url": "https://slide-distant.firebaseio.com",
+    "project_id": "slide-distant",
+    "storage_bucket": "slide-distant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293033701719:android:ef152718e7fc9ae6",
+        "android_client_info": {
+          "package_name": "me.codethm.slide_distant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293033701719-r6vgv4oj89geu5ga6c8n5e3hiiitqoh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLzWScDaxaT_fV9oW0wH9l4aRuDJ-xIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
